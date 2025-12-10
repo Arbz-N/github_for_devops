@@ -1,4 +1,4 @@
-def sum():
+def addition():
     """
     simple function
     """
@@ -7,5 +7,5 @@ def sum():
     d = a+b
     return d
 
-print(sum())
+print(addition())
 
