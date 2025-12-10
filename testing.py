@@ -1,8 +1,8 @@
-
+"""
+Hello module for testing.
+"""
 def hello():
-    """
-    This is demo
-    """
+
     return "Hello, How are you!"
 
 
